@@ -1,0 +1,30 @@
+* {
+	font-family: 'Roboto', Helvetica;
+}
+
+body {
+	background: #F6F6F6;
+	text-align: center;
+}
+
+.button {
+	height: auto;
+	width: auto;
+	background-color: #d9534f;
+	color: white;
+	text-align: center;
+	border: 1px solid transparent;
+	border-radius: 5px;
+	padding: 6px 12px;
+	margin-top: 20px;
+}
+
+#hangman-word {
+	font-size: 100px;
+	word-spacing: 0.5em;
+	margin: 30px;
+}
+
+#instructionsP {
+	font-size: 30px;
+}
