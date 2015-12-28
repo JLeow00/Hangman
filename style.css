@@ -28,3 +28,21 @@ body {
 #instructionsP {
 	font-size: 30px;
 }
+
+#splitLeft {
+	display: inline;
+	width: 50%;
+	text-align: center;
+	float: left;
+}
+
+#splitRight {
+	display: inline;
+	width: 50%;
+	text-align: center;
+	float: right;
+}
+
+#selectedCatP {
+	margin-bottom: 20px;
+}
